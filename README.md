@@ -1,2 +1,2 @@
 # frontendproject
-first web development project porfolio
+first web development practise porfolio
